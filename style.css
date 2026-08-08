@@ -1,0 +1,11 @@
+h1{
+    color:aliceblue;
+}
+/* nav bar */
+nav ul{
+    list-style-type: none;   /*to remove the bullets from the list*/
+    display :flex;   /*to make the list horizontal*/
+    gap: 20px;   /*to add space between the list items*/
+    margin: 0;   /*to remove the default margin*/
+    padding: 0;  /*to remove the default padding*/
+}
